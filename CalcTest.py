@@ -1,5 +1,6 @@
 name = input("Your name:")
-print("Hello,", name,"! \n Welcome to the Calculation Test")
+print("Hello,", name,"!")
+print(Welcome to the Calculation Test")
 print("5+10*2=")
 answer = int(input("Answer:"))
 print("Your answer is",answer==25)
