@@ -1,0 +1,6 @@
+print("Class: Developmet Essentials \n Topic: Python very basics \n In-class mini-test")
+name = input("Full name:")
+print("\n Task 1 \n There are two variables: number_1 = 25 and number_2 = ''30''. What is the sum of number_1 and number_2?")
+print("\n a) 55 \n b) 2530 \n c) TypeError \n d) No right answer")
+answer = input("Answer (only letter a, b, c, or d):")
+print("Your answer is",answer=="c")
